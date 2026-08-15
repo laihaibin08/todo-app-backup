@@ -1,7 +1,28 @@
 {
-  "users": [
-    {"username": "boss", "password": "123", "role": "boss", "supervisor": ""},
-    {"username": "managerA", "password": "123", "role": "supervisor", "supervisor": "boss"},
-    {"username": "worker1", "password": "123", "role": "employee", "supervisor": "managerA"}
-  ]
+    "users": [
+        {
+            "username": "boss",
+            "password": "123",
+            "role": "boss",
+            "supervisor": ""
+        },
+        {
+            "username": "managerA",
+            "password": "123",
+            "role": "supervisor",
+            "supervisor": "boss"
+        },
+        {
+            "username": "worker1",
+            "password": "123",
+            "role": "employee",
+            "supervisor": "managerA"
+        },
+        {
+            "username": "上级",
+            "password": "123",
+            "role": "supervisor",
+            "supervisor": "boss"
+        }
+    ]
 }
