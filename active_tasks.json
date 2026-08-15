@@ -1,16 +1,6 @@
 {
     "tasks": [
         {
-            "id": "01b6583d-e7df-4f77-9a0f-02e77f339873",
-            "project": "2SXL",
-            "assignee": "上级",
-            "content": "上级任务",
-            "status": "进行中",
-            "created_at": "2026-08-15 21:16",
-            "expected_date_label": "预计完成时间",
-            "expected_date": "2026-08-16"
-        },
-        {
             "id": "143118b9-6c96-4927-8321-214787bccdbe",
             "project": "2SXL",
             "assignee": "下级任务",
