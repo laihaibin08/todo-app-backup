@@ -23,6 +23,12 @@
             "password": "123",
             "role": "supervisor",
             "supervisor": "boss"
+        },
+        {
+            "username": "下级",
+            "password": "123",
+            "role": "employee",
+            "supervisor": "上级"
         }
     ]
 }
