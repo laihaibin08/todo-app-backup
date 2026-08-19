@@ -11,6 +11,12 @@
             "password_hash": "scrypt:32768:8:1$JXhIbFvlNtjVIQ5X$9a0fe91a9b445fca4da50383cb9ce3647293fbda22f0b17a89c81d09abf710179931be2a1c85c8cd4b3ec307bbd0b7eb98a5a72860a4ac13099c8003dee12da9",
             "role": "employee",
             "supervisor": "boss"
+        },
+        {
+            "username": "Liu Guohui",
+            "password_hash": "scrypt:32768:8:1$WusLGTgltFeYDwut$1e24217bdcf87ba7ed7663137820327d5c3eb121fdec61378879c5c0b6c59e9c4cb9f8ec246712ce37e26b79e25800c6fef97d86b5ef3d8bd969629c762750f0",
+            "role": "employee",
+            "supervisor": "boss"
         }
     ]
 }
