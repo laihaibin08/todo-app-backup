@@ -84,6 +84,23 @@
             "is_pinned": false,
             "score": null,
             "completed_at": ""
+        },
+        {
+            "id": "b4bc2dbf-8f06-4b88-a4c8-49eb31397cc0",
+            "project": "HBCP HQ",
+            "creator": "boss",
+            "assignee": "Jasmine",
+            "attention": "boss",
+            "reviewer": "boss",
+            "content": "levy August 2026",
+            "status": "WIP",
+            "proposed_status": "",
+            "created_at": "2026-08-19 21:02",
+            "expected_date_label": "Expected Completion",
+            "expected_date": "2026-09-17",
+            "is_pinned": false,
+            "score": null,
+            "completed_at": ""
         }
     ]
 }
