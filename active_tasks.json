@@ -254,6 +254,23 @@
             "is_pinned": false,
             "score": null,
             "completed_at": ""
+        },
+        {
+            "id": "fa7700c2-43f2-4ed7-921d-69a5eda160b3",
+            "project": "HBCP HQ",
+            "creator": "Maw",
+            "assignee": "Jasmine",
+            "attention": "boss",
+            "reviewer": "boss",
+            "content": "Hiring QS",
+            "status": "Pending Approval",
+            "proposed_status": "",
+            "created_at": "2026-08-19 21:09",
+            "expected_date_label": "Expected Completion",
+            "expected_date": "2026-08-28",
+            "is_pinned": false,
+            "score": null,
+            "completed_at": ""
         }
     ]
 }
