@@ -1,0 +1,5 @@
+{
+    "users": [
+        {"username": "boss", "password": "CHANGE_ME_ON_FIRST_LOGIN", "role": "boss", "supervisor": ""}
+    ]
+}
