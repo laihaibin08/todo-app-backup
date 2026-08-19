@@ -16,6 +16,23 @@
             "is_pinned": false,
             "score": null,
             "completed_at": ""
+        },
+        {
+            "id": "b85c7f25-d05b-414c-856e-08ff8f6ebba3",
+            "project": "6CW",
+            "creator": "boss",
+            "assignee": "Maw",
+            "attention": "boss",
+            "reviewer": "boss",
+            "content": "scaffolding LOA",
+            "status": "WIP",
+            "proposed_status": "",
+            "created_at": "2026-08-19 17:02",
+            "expected_date_label": "Expected Completion",
+            "expected_date": "2026-08-25",
+            "is_pinned": false,
+            "score": null,
+            "completed_at": ""
         }
     ]
 }
