@@ -67,6 +67,23 @@
             "is_pinned": false,
             "score": null,
             "completed_at": ""
+        },
+        {
+            "id": "bc96b623-5bf9-437f-bff7-d13e7255493b",
+            "project": "61DR",
+            "creator": "Maw",
+            "assignee": "Maw",
+            "attention": "boss",
+            "reviewer": "boss",
+            "content": "VO for ERSS",
+            "status": "WIP",
+            "proposed_status": "",
+            "created_at": "2026-08-19 17:19",
+            "expected_date_label": "Expected Completion",
+            "expected_date": "2026-08-25",
+            "is_pinned": false,
+            "score": null,
+            "completed_at": ""
         }
     ]
 }
