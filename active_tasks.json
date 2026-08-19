@@ -101,6 +101,23 @@
             "is_pinned": false,
             "score": null,
             "completed_at": ""
+        },
+        {
+            "id": "51f7f15a-cbdd-4ad8-a22a-9d96423c439b",
+            "project": "HBCP HQ",
+            "creator": "boss",
+            "assignee": "Jasmine",
+            "attention": "boss",
+            "reviewer": "boss",
+            "content": "Hiring Engineers, Site Coordinators and Safety Coordinators.",
+            "status": "WIP",
+            "proposed_status": "",
+            "created_at": "2026-08-19 21:03",
+            "expected_date_label": "Expected Completion",
+            "expected_date": "2026-08-30",
+            "is_pinned": false,
+            "score": null,
+            "completed_at": ""
         }
     ]
 }
