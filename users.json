@@ -5,6 +5,12 @@
             "role": "boss",
             "password_hash": "scrypt:32768:8:1$61P5RNGpeJJ59VWU$f8c1720807d01b84c5f276e59a3ea88bca5edcc6d150b110b79bcd6f8db88ea94bdc2a7ca7a2c5f72e26d1603a9f2df509a96497e17192d40eedbf9eb9e08bc0",
             "supervisor": ""
+        },
+        {
+            "username": "Maw",
+            "password_hash": "scrypt:32768:8:1$JXhIbFvlNtjVIQ5X$9a0fe91a9b445fca4da50383cb9ce3647293fbda22f0b17a89c81d09abf710179931be2a1c85c8cd4b3ec307bbd0b7eb98a5a72860a4ac13099c8003dee12da9",
+            "role": "employee",
+            "supervisor": "boss"
         }
     ]
 }
