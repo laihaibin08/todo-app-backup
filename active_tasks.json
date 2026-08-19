@@ -203,6 +203,23 @@
             "is_pinned": false,
             "score": null,
             "completed_at": ""
+        },
+        {
+            "id": "46c1843f-4230-41d6-ac47-570c46a8e04b",
+            "project": "HBCP HQ",
+            "creator": "boss",
+            "assignee": "Jasmine",
+            "attention": "boss",
+            "reviewer": "boss",
+            "content": "Prepare the Primary Care Plan Excel",
+            "status": "WIP",
+            "proposed_status": "",
+            "created_at": "2026-08-19 21:06",
+            "expected_date_label": "Expected Completion",
+            "expected_date": "2026-08-25",
+            "is_pinned": false,
+            "score": null,
+            "completed_at": ""
         }
     ]
 }
