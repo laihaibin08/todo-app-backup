@@ -50,6 +50,23 @@
             "is_pinned": false,
             "score": null,
             "completed_at": ""
+        },
+        {
+            "id": "926fc32b-cf1d-45ec-8bc4-51af47a1b250",
+            "project": "6CW",
+            "creator": "Maw",
+            "assignee": "Maw",
+            "attention": "",
+            "reviewer": "boss",
+            "content": "PC01",
+            "status": "WIP",
+            "proposed_status": "",
+            "created_at": "2026-08-19 17:19",
+            "expected_date_label": "Expected Completion",
+            "expected_date": "2026-08-22",
+            "is_pinned": false,
+            "score": null,
+            "completed_at": ""
         }
     ]
 }
