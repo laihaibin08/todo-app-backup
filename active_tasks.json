@@ -33,6 +33,23 @@
             "is_pinned": false,
             "score": null,
             "completed_at": ""
+        },
+        {
+            "id": "2a9c2838-75a0-41cb-b258-59aa4dad0614",
+            "project": "61DR",
+            "creator": "boss",
+            "assignee": "Maw",
+            "attention": "boss",
+            "reviewer": "boss",
+            "content": "LOA MSM 61DR",
+            "status": "WIP",
+            "proposed_status": "",
+            "created_at": "2026-08-19 17:15",
+            "expected_date_label": "Expected Completion",
+            "expected_date": "2026-08-25",
+            "is_pinned": false,
+            "score": null,
+            "completed_at": ""
         }
     ]
 }
