@@ -17,6 +17,12 @@
             "password_hash": "scrypt:32768:8:1$WusLGTgltFeYDwut$1e24217bdcf87ba7ed7663137820327d5c3eb121fdec61378879c5c0b6c59e9c4cb9f8ec246712ce37e26b79e25800c6fef97d86b5ef3d8bd969629c762750f0",
             "role": "employee",
             "supervisor": "boss"
+        },
+        {
+            "username": "Jasmine",
+            "password_hash": "scrypt:32768:8:1$dgnP9owwSfVd1lN6$3b9e8091e3e6531f59df83b5fe20066a5138bfeb0235991ca1cfa1a3564bc9e984d09c0e0523fb16cb872e08191045aa41da2c84d12c2ca69e1f1174f6973b0e",
+            "role": "employee",
+            "supervisor": "boss"
         }
     ]
 }
