@@ -1,1 +1,10 @@
-{"users": [{"username": "boss", "password": "Task_Management@4HBCP", "role": "boss"}]}
+{
+    "users": [
+        {
+            "username": "boss",
+            "role": "boss",
+            "password_hash": "scrypt:32768:8:1$61P5RNGpeJJ59VWU$f8c1720807d01b84c5f276e59a3ea88bca5edcc6d150b110b79bcd6f8db88ea94bdc2a7ca7a2c5f72e26d1603a9f2df509a96497e17192d40eedbf9eb9e08bc0",
+            "supervisor": ""
+        }
+    ]
+}
