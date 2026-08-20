@@ -288,6 +288,23 @@
             "is_pinned": false,
             "score": null,
             "completed_at": ""
+        },
+        {
+            "id": "5bd54377-2821-440f-8d5a-a95f11d2b04e",
+            "project": "61DR",
+            "creator": "boss",
+            "assignee": "Alan",
+            "attention": "boss",
+            "reviewer": "boss",
+            "content": "Coordinate with Maw to issue the VO to HGW for confirmation.",
+            "status": "WIP",
+            "proposed_status": "",
+            "created_at": "2026-08-20 10:45",
+            "expected_date_label": "Expected Completion",
+            "expected_date": "2026-08-20",
+            "is_pinned": false,
+            "score": null,
+            "completed_at": ""
         }
     ]
 }
