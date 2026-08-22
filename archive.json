@@ -76,5 +76,24 @@
             "score": 8,
             "completed_at": "2026-08-19 17:22"
         }
+    ],
+    "HBCP HQ": [
+        {
+            "id": "618ec04d-61ff-4169-bb93-53ff0f31ed65",
+            "project": "HBCP HQ",
+            "creator": "boss",
+            "assignee": "Jasmine",
+            "attention": "boss",
+            "reviewer": "boss",
+            "content": "Arrange for bizsafe star training",
+            "status": "Closed",
+            "proposed_status": "Completed",
+            "created_at": "2026-08-19 21:05",
+            "expected_date_label": "Expected Completion",
+            "expected_date": "2026-08-20",
+            "is_pinned": false,
+            "score": 8,
+            "completed_at": "2026-08-22 09:28"
+        }
     ]
 }
