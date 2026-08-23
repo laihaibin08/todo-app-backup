@@ -94,6 +94,23 @@
             "is_pinned": false,
             "score": 8,
             "completed_at": "2026-08-22 09:28"
+        },
+        {
+            "id": "8e7af6e9-e74a-429b-84e9-1940b0a01151",
+            "project": "HBCP HQ",
+            "creator": "boss",
+            "assignee": "Jasmine",
+            "attention": "boss",
+            "reviewer": "boss",
+            "content": "Finalise Ng's last day and resignation letter",
+            "status": "Closed",
+            "proposed_status": "Completed",
+            "created_at": "2026-08-19 21:06",
+            "expected_date_label": "Expected Completion",
+            "expected_date": "2026-08-19",
+            "is_pinned": false,
+            "score": 7,
+            "completed_at": "2026-08-23 18:44"
         }
     ]
 }
