@@ -287,7 +287,7 @@
             "attention": "",
             "assist_from": "",
             "prerequisite_id": "",
-            "priority": 5,
+            "priority": 1,
             "reviewer": "boss",
             "content": "transfer SIDA workers to HBC",
             "status": "WIP",
