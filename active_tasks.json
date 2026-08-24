@@ -278,6 +278,26 @@
             "is_pinned": false,
             "score": null,
             "completed_at": ""
+        },
+        {
+            "id": "1b3f1ccd-9d89-48da-ba97-420434b290ac",
+            "project": "HBCP HQ",
+            "creator": "Jasmine",
+            "assignee": "Jasmine",
+            "attention": "",
+            "assist_from": "",
+            "prerequisite_id": "",
+            "priority": 5,
+            "reviewer": "boss",
+            "content": "transfer SIDA workers to HBC",
+            "status": "WIP",
+            "proposed_status": "",
+            "created_at": "2026-08-24 18:30",
+            "expected_date_label": "Expected Completion",
+            "expected_date": "2026-08-24",
+            "is_pinned": false,
+            "score": null,
+            "completed_at": ""
         }
     ]
 }
