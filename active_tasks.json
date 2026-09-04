@@ -327,7 +327,7 @@
             "attention": "boss",
             "assist_from": "boss",
             "prerequisite_id": "",
-            "priority": 10,
+            "priority": 8,
             "reviewer": "boss",
             "content": "SOW and Contract",
             "status": "WIP",
