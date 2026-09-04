@@ -49,7 +49,8 @@
             "expected_date": "2026-08-22",
             "is_pinned": false,
             "score": null,
-            "completed_at": ""
+            "completed_at": "",
+            "priority": 6
         },
         {
             "id": "bc96b623-5bf9-437f-bff7-d13e7255493b",
