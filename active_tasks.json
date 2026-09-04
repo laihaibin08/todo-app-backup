@@ -358,6 +358,26 @@
             "is_pinned": false,
             "score": null,
             "completed_at": ""
+        },
+        {
+            "id": "cfd3e924-ef4c-4083-a173-9aa65fef3747",
+            "project": "68KPR",
+            "creator": "Maw",
+            "assignee": "Maw",
+            "attention": "boss",
+            "assist_from": "boss",
+            "prerequisite_id": "1772a39c-d596-4f7a-8926-120955dcbe2a",
+            "priority": 8,
+            "reviewer": "boss",
+            "content": "VO submission to ALFA",
+            "status": "WIP",
+            "proposed_status": "",
+            "created_at": "2026-09-04 14:21",
+            "expected_date_label": "Expected Completion",
+            "expected_date": "2026-09-11",
+            "is_pinned": false,
+            "score": null,
+            "completed_at": ""
         }
     ]
 }
