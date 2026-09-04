@@ -338,6 +338,26 @@
             "is_pinned": false,
             "score": null,
             "completed_at": ""
+        },
+        {
+            "id": "1772a39c-d596-4f7a-8926-120955dcbe2a",
+            "project": "68KPR",
+            "creator": "Maw",
+            "assignee": "Maw",
+            "attention": "boss",
+            "assist_from": "boss",
+            "prerequisite_id": "",
+            "priority": 10,
+            "reviewer": "boss",
+            "content": "SOW and Contract",
+            "status": "WIP",
+            "proposed_status": "",
+            "created_at": "2026-09-04 14:19",
+            "expected_date_label": "Expected Completion",
+            "expected_date": "2026-09-09",
+            "is_pinned": false,
+            "score": null,
+            "completed_at": ""
         }
     ]
 }
